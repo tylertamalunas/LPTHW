@@ -1,0 +1,1 @@
+# checkout notion in the python category for the specific words and symbols meanings. 
