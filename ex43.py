@@ -122,6 +122,8 @@ class LaserWeaponArmory(Scene):
             print("BZZZZEDDD!")
             guesses += 1
             guess = input("[keypad}> ")
+            if guess == "cheat":
+                print(code)
 
         if guess == code:
             print(dedent("""
